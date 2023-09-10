@@ -22,3 +22,5 @@ Cancellation Form – If passengers want to cancel their tickets then they have 
 PNR number and after submitting it, this will display the entire information related to that
 particular PNR number. If users want to confirm their cancellation, in this case they have to press
 OK button.
+
+https://user-images.githubusercontent.com/106643865/196518468-d6d8d671-0487-42d8-8a2c-8f56c99a7794.mp4
